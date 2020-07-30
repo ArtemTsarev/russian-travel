@@ -1,0 +1,56 @@
+.photo-grid__item{
+    width: 284px;
+    height: 213px;
+    object-fit: cover;
+    object-position: top left;
+}
+
+.photo-grid__item:first-child{
+    background: url(../../../images/photo-grid__items/1.png);
+}
+
+.photo-grid__item:nth-child(2n){
+    background: url(../../../images/photo-grid__items/2.png);
+}
+
+.photo-grid__item:nth-child(3n){
+    background: url(../../../images/photo-grid__items/3.png);
+}
+
+.photo-grid__item:nth-child(4n){
+    background: url(../../../images/photo-grid__items/4.png);
+}
+
+.photo-grid__item:nth-child(5n){
+    background: url(../../../images/photo-grid__items/5.png);
+}
+
+.photo-grid__item:nth-child(6n){
+    background: url(../../../images/photo-grid__items/6.png);
+}
+
+.photo-grid__item:nth-child(7n){
+    background: url(../../../images/photo-grid__items/7.png);
+}
+
+.photo-grid__item:nth-child(8n){
+    background: url(../../../images/photo-grid__items/8.png);
+}
+
+.photo-grid__item:nth-child(9n){
+    background: url(../../../images/photo-grid__items/9.png);
+}
+
+.photo-grid__item:nth-child(10n){
+    background: url(../../../images/photo-grid__items/10.png);
+}
+
+.photo-grid__item:nth-child(11n){
+    background: url(../../../images/photo-grid__items/11.png);
+}
+
+.photo-grid__item:nth-child(12n){
+    background: url(../../../images/photo-grid__items/12.png);
+}
+
+
