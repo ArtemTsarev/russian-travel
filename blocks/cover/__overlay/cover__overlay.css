@@ -1,6 +1,15 @@
-.cover__overlay{
+.cover__overlay {
     width: 1184px;
     height: 740px;
-    margin: 0 auto;
-    background: url(../../../images/background-cover.png);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0,0,0, 0.3);
+}
+
+.cover:hover .cover__overlay{
+    background: rgba(0,0,0, 0.7);
+    transition: all 0.5s;
+    cursor: pointer;
 }

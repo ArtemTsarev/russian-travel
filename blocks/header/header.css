@@ -3,7 +3,9 @@
 @import url(./__lang-links/header__lang-links.css);
 
 .header{
+    padding-top: 28px;
     min-height: 52px;
+    max-width: 1184px;
     display: flex;
     position: relative;
     margin: 0 48px 0 48px;
