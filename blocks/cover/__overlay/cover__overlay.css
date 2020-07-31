@@ -1,0 +1,6 @@
+.cover__overlay{
+    width: 1184px;
+    height: 740px;
+    margin: 0 auto;
+    background: url(../../../images/background-cover.png);
+}
