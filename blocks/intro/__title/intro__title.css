@@ -34,3 +34,11 @@
         text-align: center;
     }
 }
+
+@media screen and (max-width: 319px){
+    .intro__text{
+        max-width: 100%;
+        margin: 0 auto 0 auto;
+        font-size: 20px;
+    }
+}
