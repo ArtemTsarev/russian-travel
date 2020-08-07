@@ -4,3 +4,18 @@
     justify-content: start;
     display: block;
 }
+
+@media screen and (max-width: 475px){
+    .header__logo{
+        width: 150px;
+        height: 32px;
+        justify-content: start;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .header__logo{
+        max-width: 142px;
+    }
+}

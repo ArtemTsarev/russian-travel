@@ -9,3 +9,23 @@
     color: #FFFFFF;
     margin-top: 32px;
 }
+
+@media screen and (max-width: 400px) and (min-width: 321px) {
+    .cover__subtitle {
+        font-size: 17px;
+        line-height: 25px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .cover__subtitle{
+        max-width: 288px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        margin-top: 16px;
+    }
+}

@@ -11,3 +11,27 @@
     text-decoration-line: underline;
     margin-right: 18px;
 }
+
+.header__lang-link:last-child{
+    margin-right: 0;
+}
+
+@media screen and (max-width: 475px){
+    .header__lang-link{
+        font-size: 20px;
+    }
+}
+
+
+@media screen and (max-width: 320px){
+    .header__lang-link{
+        max-width: 22px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 24px;
+        text-align: right;
+        text-decoration-line: underline;
+    }
+}

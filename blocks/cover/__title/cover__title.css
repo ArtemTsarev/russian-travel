@@ -10,3 +10,30 @@
     text-align: center;
     color: #FFF;
 }
+
+@media screen and (max-width: 525px) and (min-width: 401px) {
+    .cover__title {
+        font-size: 40px;
+        line-height: 40px;
+    }
+}
+
+@media screen and (max-width: 400px) and (min-width: 321px){
+    .cover__title{
+        font-size: 40px;
+        line-height: 40px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .cover__title{
+        max-width: 288px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 35px;
+        text-align: center;
+        margin-top: 33px;
+    }
+}

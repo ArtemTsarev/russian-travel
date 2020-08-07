@@ -1,4 +1,42 @@
 .place__image{
     max-width: 460px;
-    max-height: 460px;
+    height: auto;
 }
+
+@media screen and (max-width: 1024px){
+    .place__image{
+        max-width: 440px;
+        max-height: 440px;
+    }
+}
+
+@media screen and (max-width: 1023px) and (min-width: 768px){
+.place__image {
+    width: 340px;
+    height: 340px;
+    margin: 0;
+    padding: 0;
+            }
+}
+
+@media screen and (max-width: 767px) and (min-width: 580px){
+    .place__image{
+        max-width: 300px;
+        max-height: 300px;
+    }
+}
+
+@media screen and (max-width: 579px) and (min-width: 321px){
+    .place__image{
+        width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .place__image{
+        max-width: 100%;
+    }
+}
+

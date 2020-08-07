@@ -1,6 +1,6 @@
 .cover__overlay {
-    width: 1184px;
-    height: 740px;
+    width: 100%;
+    min-height: 740px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -9,7 +9,33 @@
 }
 
 .cover:hover .cover__overlay{
-    background: rgba(0,0,0, 0.7);
-    transition: all 0.5s;
+    background: rgba(0,0,0, 0.8);
     cursor: pointer;
+    transition: 0.5s;
+
 }
+
+@media screen and (max-width: 1024px){
+    .cover__overlay {
+        width: 100%;
+        min-height: 640px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .cover__overlay {
+        width: 100%;
+        min-height: 480px;
+    }
+}
+
+
+
+@media screen and (max-width: 320px) {
+    .cover__overlay {
+        width: 100%;
+        min-height: 200px;
+    }
+}
+
+
