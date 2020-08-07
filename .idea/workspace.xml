@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b41d3082-5032-43b1-acc3-65794489d3ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__list-item/intro__list-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list-item/intro__list-item.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/lead.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/photo-grid/__item/photo-grid__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/photo-grid/__item/photo-grid__item.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +81,7 @@
       <workItem from="1596696877800" duration="242000" />
       <workItem from="1596698609728" duration="36000" />
       <workItem from="1596702746050" duration="185000" />
-      <workItem from="1596702957025" duration="11333000" />
+      <workItem from="1596702957025" duration="12267000" />
     </task>
     <servers />
   </component>
@@ -107,6 +100,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="367" y="206" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596784182780">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="367" y="206" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1596784182780" />
     <state x="385" y="240" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1596713876750">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
