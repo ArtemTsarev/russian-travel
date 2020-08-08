@@ -60,5 +60,10 @@
     .place__title{
         max-width: 288px;
         margin: 0 auto;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 35px;
     }
 }
