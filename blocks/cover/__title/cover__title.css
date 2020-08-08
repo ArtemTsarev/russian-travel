@@ -27,7 +27,7 @@
 
 @media screen and (max-width: 320px){
     .cover__title{
-        max-width: 288px;
+        max-width: 255px;
         font-family: Inter;
         font-style: normal;
         font-weight: 900;

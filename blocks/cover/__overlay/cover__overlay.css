@@ -8,7 +8,7 @@
     background-color: rgba(0,0,0, 0.3);
 }
 
-.cover:hover .cover__overlay{
+.cover__overlay:hover{
     background: rgba(0,0,0, 0.8);
     cursor: pointer;
     transition: 0.5s;
