@@ -21,47 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b41d3082-5032-43b1-acc3-65794489d3ee" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-BlackItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Bold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-BoldItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBoldItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLight.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLightItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Italic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Light.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-LightItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Medium.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-MediumItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBoldItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Thin.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-ThinItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Inter-V.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fonts.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +62,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -121,7 +85,7 @@
       <workItem from="1596696877800" duration="242000" />
       <workItem from="1596698609728" duration="36000" />
       <workItem from="1596702746050" duration="185000" />
-      <workItem from="1596702957025" duration="16585000" />
+      <workItem from="1596702957025" duration="17037000" />
     </task>
     <servers />
   </component>
