@@ -10,10 +10,12 @@
 
 .header__lang-link:first-child{
     margin-right: 18px;
+    width: 30px;
 }
 
 .header__lang-link:last-child{
     margin-right: 0;
+    width: 29px;
 }
 
 @media screen and (max-width: 475px){

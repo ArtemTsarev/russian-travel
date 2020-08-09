@@ -1,0 +1,9 @@
+.header__links{
+    padding: 0;
+    margin: auto 0 0 auto;
+    width: fit-content;
+    -ms-align-self: flex-end;
+    align-self: flex-end;
+    height: 28px;
+    
+}

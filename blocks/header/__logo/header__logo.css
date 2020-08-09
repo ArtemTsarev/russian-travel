@@ -1,7 +1,7 @@
 .header__logo{
     width: 176px;
     height: 52px;
-    justify-content: start;
+/*    justify-content: start;*/
     display: block;
 }
 
