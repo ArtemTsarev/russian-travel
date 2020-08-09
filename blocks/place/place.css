@@ -9,19 +9,22 @@
 .place {
     max-width: 984px;
     margin: 0 auto 80px auto;
-    display: flex;
-    flex-wrap: wrap;
-    gap:48px 40px;
+    display: grid;
+    grid-template-columns: 460px 484px;
+    grid-column-gap: 40px;
+    grid-row-gap: 48px;
 }
 
-.place:last-child{
-    margin-bottom: 0;  
+.place:last-child {
+    margin-bottom: 0;
 }
 
 @media screen and (max-width: 1024px) {
     .place {
         max-width: 928px;
-        gap: 48px 32px;
+        grid-column-gap: 32px;
+        grid-row-gap: 48px;
+        grid-template-columns: 440px 456px;
     }
 }
 
@@ -30,40 +33,47 @@
     .place {
         max-width: 700px;
         margin: 0px auto 60px auto;
-        gap: 40px 20px;
-      
+        grid-column-gap: 20px;
+        grid-row-gap: 40px;
+        grid-template-columns: 340px 340px;
+
     }
 }
 
-@media screen and (max-width: 768px){
-    .place{
+@media screen and (max-width: 768px) {
+    .place {
         max-width: 100%;
-        gap: 48px 28px;
         margin-bottom: 72px;
+        grid-column-gap: 28px;
+        grid-row-gap: 48px;
+        grid-template-columns: 340px 340px;
     }
 }
 
-@media screen and (max-width: 767px) and (min-width: 580px){
-    .place{
+@media screen and (max-width: 767px) and (min-width: 580px) {
+    .place {
         max-width: 570px;
+        grid-template-columns: 300px 240px;
     }
 }
 
-@media screen and (max-width: 579px) and (min-width: 321px){
-    .place{
+@media screen and (max-width: 579px) and (min-width: 321px) {
+    .place {
         width: 90%;
-        flex-direction: column;
         margin: 60px auto 0 auto;
+        grid-template-columns: 1fr;
     }
 
-    .place:first-child{
+    .place:first-child {
         margin-top: 0;
     }
 }
 
-@media screen and (max-width: 320px){
-    .place{
-        max-width: 320px;
+@media screen and (max-width: 320px) {
+    .place {
+        width: 320px;
+        margin: 0 auto 48px auto;
+        grid-template-columns: 100%;
+        grid-row-gap: 32px;
     }
 }
-
