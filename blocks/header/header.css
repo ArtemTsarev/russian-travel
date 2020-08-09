@@ -29,24 +29,17 @@
 @media screen and (max-width: 475px) {
     .header {
         max-width: 90%;
-        margin-right: auto;
-        margin-left: auto;
     }
 }
 
 @media screen and (max-width: 380px) {
     .header {
         max-width: 90%;
-        margin-right: auto;
-        margin-left: auto;
     }
 }
 
 @media screen and (max-width: 320px) {
     .header {
         max-width: 288px;
-        display: flex;
-        justify-content: space-between;
-        margin: 0 auto 0 auto;
     }
 }
