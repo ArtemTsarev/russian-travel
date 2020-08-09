@@ -1,6 +1,7 @@
 .place__paragraph-item {
   max-width: 484px;
-
+  margin-right: auto;
+  margin-left: auto;
 }
 
 @media screen and (max-width: 1024px) {
@@ -25,15 +26,12 @@
 @media screen and (max-width: 579px) and (min-width: 321px) {
   .place__paragraph-item {
     max-width: 100%;
-    margin-right: auto;
-    margin-left: auto;
   }
 }
 
 @media screen and (max-width: 320px) {
   .place__paragraph-item {
     width: 288px;
-    margin: 0 auto 0 auto;
   }
 }
 
