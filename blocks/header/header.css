@@ -3,7 +3,7 @@
 @import url(./__lang-links/header__lang-links.css);
 @import url(./__lang-link/_focus/header__lang-link_focus.css);
 
-.header{
+.header {
     padding-top: 28px;
     max-width: 1184px;
     display: flex;
@@ -13,41 +13,40 @@
     justify-content: space-between;
 }
 
-@media screen and (max-width: 1024px){
-    .header{
+@media screen and (max-width: 1024px) {
+    .header {
         max-width: 928px;
     }
 }
 
-@media screen and (max-width: 768px){
-    .header{
+@media screen and (max-width: 768px) {
+    .header {
         max-width: 720px;
     }
 }
 
 
-@media screen and (max-width: 475px){
-    .header{
+@media screen and (max-width: 475px) {
+    .header {
         max-width: 90%;
         margin-right: auto;
         margin-left: auto;
     }
 }
 
-@media screen and (max-width: 380px){
-    .header{
+@media screen and (max-width: 380px) {
+    .header {
         max-width: 90%;
         margin-right: auto;
         margin-left: auto;
     }
 }
 
-@media screen and (max-width: 320px){
-    .header{
+@media screen and (max-width: 320px) {
+    .header {
         max-width: 288px;
         display: flex;
         justify-content: space-between;
         margin: 0 auto 0 auto;
     }
 }
-
